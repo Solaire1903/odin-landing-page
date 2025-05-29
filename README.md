@@ -1,1 +1,1 @@
-# odin-landing-page
+Project for The Odin Project where you have to design a landing page.
