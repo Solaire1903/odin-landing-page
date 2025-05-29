@@ -50,6 +50,7 @@ body {
 #hero-text {
     font-size: 48px;
     color: #f9faf8;
+    margin: 0;
 }
 
 #hero-secondary-text {
