@@ -21,7 +21,6 @@ body {
 
 #header-links {
     list-style: none;
-    font-size: 18px;
     margin: 0;
     padding: 0;
     display: flex;
@@ -29,6 +28,50 @@ body {
 }
 
 .header-link {
+    font-size: 18px;
     color: #e5e7eb;
     text-decoration: none;
+}
+
+#hero-banner {
+    background-color: #1f2937;
+    padding: 150px 250px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 200px;
+}
+
+#hero-left {
+    display: flex;
+    flex-direction: column;
+}
+
+#hero-text {
+    font-size: 48px;
+    color: #f9faf8;
+}
+
+#hero-secondary-text {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+#hero-sign-up {
+    color: #e5e7eb;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px 30px;
+    background-color: #3882f6;
+    border-radius: 10px;
+    max-width: fit-content;
+    max-height: fit-content;
+}
+
+#hero-image {
+    color: #e5e7eb;
+    background-color: grey;
+    padding: 140px 150px;
+    display: flex;
+    flex-shrink: 0;
 }
