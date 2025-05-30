@@ -13,6 +13,17 @@ body {
     background-color: #3882f6;
 }
 
+button {
+    color: #e5e7eb;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px 30px;
+    border-style: solid;
+    border-radius: 10px;
+    max-width: fit-content;
+    max-height: fit-content;
+}
+
 #header {
     padding: 20px 250px;
     display: flex;
@@ -65,15 +76,7 @@ body {
 }
 
 #hero-sign-up {
-    color: #e5e7eb;
-    font-weight: bold;
-    font-size: 18px;
-    padding: 10px 30px;
-    border-style: solid;
     border-color: #1f2937;
-    border-radius: 10px;
-    max-width: fit-content;
-    max-height: fit-content;
 }
 
 #hero-image {
@@ -185,15 +188,7 @@ body {
 }
 
 #action-sign-up {
-    color: #e5e7eb;
-    font-weight: bold;
-    font-size: 18px;
-    padding: 10px 30px;
-    border-style: solid;
     border-color: #e5e7eb;
-    border-radius: 10px;
-    max-width: fit-content;
-    max-height: fit-content;
 }
 
 #footer {
