@@ -101,6 +101,9 @@ button {
 #hero-image {
     display: flex;
     flex-wrap: wrap;
+    border-style: solid;
+    border-color: #f9faf8;
+    border-radius: 15px;
 }
 
 #info-banner {
@@ -108,7 +111,6 @@ button {
     display: flex;
     flex-direction: column;
     align-items: center;
-    
 }
 
 #info-text {
