@@ -13,8 +13,15 @@ body {
     background-color: #3882f6;
 }
 
-button {
+#header-logo, #hero-text {
+    color: #f9faf8;
+}
+
+button, .header-link, #hero-secondary-text, #hero-image, #action-banner, #footer {
     color: #e5e7eb;
+}
+
+button {
     font-weight: bold;
     font-size: 18px;
     padding: 10px 30px;
@@ -32,7 +39,6 @@ button {
 }
 
 #header-logo {
-    color: #f9faf8;
     font-size: 24px;
     font-weight: bold;
 }
@@ -46,7 +52,6 @@ button {
 }
 
 .header-link {
-    color: #e5e7eb;
     font-size: 18px;
     text-decoration: none;
 }
@@ -65,13 +70,11 @@ button {
 }
 
 #hero-text {
-    color: #f9faf8;
     font-size: 48px;
     margin: 0;
 }
 
 #hero-secondary-text {
-    color: #e5e7eb;
     font-size: 18px;
 }
 
@@ -80,7 +83,6 @@ button {
 }
 
 #hero-image {
-    color: #e5e7eb;
     background-color: grey;
     padding: 140px 150px;
     display: flex;
@@ -164,7 +166,6 @@ button {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    color: #e5e7eb;
 }
 
 #action-box {
@@ -193,7 +194,6 @@ button {
 }
 
 #footer {
-    color: #e5e7eb;
     font-size: 18px;
     display: flex;
     justify-content: center;
