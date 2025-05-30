@@ -181,7 +181,7 @@ button {
 }
 
 #action-box {
-    padding: 50px 100px 50px 100px;
+    padding: 50px 60px;
     border-radius: 10px;
     display: flex;
     justify-content: center;
