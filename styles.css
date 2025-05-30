@@ -76,11 +76,13 @@ button {
     align-items: center;
     flex-basis: 80%;
     flex-wrap: wrap;
+    gap: 50px;
 }
 
 #hero-left {
     display: flex;
     flex-direction: column;
+    max-width: 600px;
 }
 
 #hero-text {
