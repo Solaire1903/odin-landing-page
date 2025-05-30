@@ -64,11 +64,17 @@ button {
 }
 
 #hero-banner {
-    padding: 150px 250px;
+    display: flex;
+    flex-basis: 500px;
+    justify-content: center;
+    align-items: center;
+}
+
+#hero-content {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    gap: 200px;
+    flex-basis: 80%;
 }
 
 #hero-left {
@@ -93,7 +99,6 @@ button {
     background-color: grey;
     padding: 140px 150px;
     display: flex;
-    flex-shrink: 0;
 }
 
 #info-banner {
