@@ -1,1 +1,3 @@
 Project for The Odin Project where you have to design a landing page.
+
+Image sources: Pixabay
