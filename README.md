@@ -1,4 +1,4 @@
-Project for The Odin Project where you have to design a landing page
+Project for <a href="https://www.theodinproject.com/">The Odin Project</a> where you have to design a landing page
 
 Image sources: Pixabay
 
