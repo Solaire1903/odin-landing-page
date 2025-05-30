@@ -180,8 +180,7 @@ button {
 }
 
 #action-box {
-    height: 150px;
-    width: 1000px;
+    padding: 50px 100px 50px 100px;
     border-radius: 10px;
     display: flex;
     justify-content: center;
