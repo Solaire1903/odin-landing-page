@@ -130,11 +130,9 @@ button {
 }
 
 .card-image {
-    padding: 80px 80px;
     border: #3882f6;
     border-style: solid;
-    border-radius: 15px;
-    border-width: thick;
+    border-radius: 30px;
 }
 
 .card-subtext {
