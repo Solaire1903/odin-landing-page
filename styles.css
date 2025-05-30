@@ -163,7 +163,6 @@ button {
     color: #1f2937;
     display: flex;
     justify-content: center;
-    flex-wrap: wrap;
 }
 
 #quote-signature {
