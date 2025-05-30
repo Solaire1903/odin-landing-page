@@ -1,6 +1,6 @@
 Project for <a href="https://www.theodinproject.com/">The Odin Project</a> where you have to design a landing page
 
-Image sources: Pixabay
+Image sources: <a href="https://pixabay.com/">Pixabay</a>
 
 Artists:
 
