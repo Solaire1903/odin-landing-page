@@ -32,8 +32,14 @@ button {
 }
 
 #header {
-    padding: 20px 250px;
     display: flex;
+    flex-basis: 100px;
+    justify-content: center;
+}
+
+#header-content {
+    display: flex;
+    flex-basis: 80%;
     justify-content: space-between;
     align-items: center;
 }
